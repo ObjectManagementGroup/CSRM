@@ -1,6 +1,8 @@
 # CubeSat System Reference Model (CSRM)
 Welcome to the CubeSat System Reference Model project. This will be used to maintain published versions of the CSRM.
 
+CubeSat System Reference Model © 2022 by INCOSE Space Systems Working Group (SSWG) and OMG Space Domain Task Force (SDTF) is licensed under CC BY 4.0 
+
 The CSRM includes a glossary and uses the CSRM Profile to provide consistency and interoperability. The CSRM Profile is a product of a collaboration between INCOSE and the OMG that is managed as a standard by the OMG under the Space Domain Task Force.
 
 The project will contain both vendor-specific, standard XMI and other formats. The issue system will be used for planning and supporting issues of the CSRM (the CSRM profile is managed separately by the OMG). The discussion area will be used to discuss planning and aid in training for the CSRM.
