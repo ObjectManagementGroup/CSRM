@@ -13,6 +13,8 @@ There are no hosted files yet. We need to choose an open-source license and do m
 ## Get Involved
 We welcome collaboration! We want to improve the CSRM with additional capabilities so that creating a CubeSat for any purpose is easier and can leverage the experience of the many users of the framework. If you have additional libraries, design artifacts, simulations, and other materials, let us know.
 
+This work was created by members of INCOSE and the OMG and we welcome your participation in either of these groups or here on GitHub. 
+
 ## Licensing
 The CSRM uses the Creative Commons license so that hobbies, educators, and commercial businesses can use it without encumbrement. 
 
