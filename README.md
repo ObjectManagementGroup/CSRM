@@ -12,7 +12,7 @@ The discussion area is used to discuss planning and aid in training for the CSRM
 ## Get Involved
 We welcome collaboration! We want to improve the CSRM with additional capabilities so that creating a CubeSat for any purpose is easier and can leverage the experience of the framework's many users. If you have additional libraries, design artifacts, simulations, and other materials, let us know.
 
-This work was created by members of INCOSE and the OMG, and we welcome your participation in either of these groups or here on GitHub. 
+This work was created by members of INCOSE and the OMG, and we welcome your participation (see https://www.incose.org/communities/working-groups-initiatives/space-systems) in either of these groups or here on GitHub. 
 
 ## Licensing
 The CSRM uses the Creative Commons license so that hobbies, educators, and commercial businesses can use it without encumbrement. 
