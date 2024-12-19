@@ -8,7 +8,8 @@ The CSRM includes a glossary and uses the CSRM Profile to provide consistency an
 The project contains both vendor-specific, standard XMI, and other formats. The issue system will be used for planning and supporting issues of the CSRM (the CSRM profile is managed separately by the OMG). 
 
 The discussion area is used to discuss planning and aid in training for the CSRM.
-
+## Release News
+Updates to CSRM and References updated (December 2024) See memo: "1 - CSRM - At Last - 2024-12-09.docx"
 ## Get Involved
 We welcome collaboration! We want to improve the CSRM with additional capabilities so that creating a CubeSat for any purpose is easier and can leverage the experience of the framework's many users. If you have additional libraries, design artifacts, simulations, and other materials, let us know.
 
