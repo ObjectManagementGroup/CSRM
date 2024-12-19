@@ -9,7 +9,7 @@ The project contains both vendor-specific, standard XMI, and other formats. The 
 
 The discussion area is used to discuss planning and aid in training for the CSRM.
 ## Release News
-Updates to CSRM and References updated (December 2024) See memo: "1 - CSRM - At Last - 2024-12-09.docx"
+Updates to CSRM and References updated (December 2024) See memo: "1 - CSRM - At Last - 2024-12-09.docx"https://github.com/ObjectManagementGroup/CSRM/blob/main/CSRM%20Memos%20-%202023-09-06/1%20-%20CSRM%20-%20At%20Last%20-%202024-12-09.docx 
 ## Get Involved
 We welcome collaboration! We want to improve the CSRM with additional capabilities so that creating a CubeSat for any purpose is easier and can leverage the experience of the framework's many users. If you have additional libraries, design artifacts, simulations, and other materials, let us know.
 
